@@ -2,8 +2,8 @@
 
 **Course:** Programming in Java (CSA09)  
 **Course Outcome:** CO1  
-**Student:** Mahima Prabhakaran  
-**Register Number:** 192521280  
+**Student:** Motupalem Mahi
+**Register Number:** 192524411
 **Local verification environment:** OpenJDK 21
 
 ## Coverage
